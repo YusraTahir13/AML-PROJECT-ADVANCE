@@ -75,6 +75,8 @@ After comparative analysis:
   
 All generated output figures have been saved in the [figures folder](https://github.com/YusraTahir13/AML-PROJECT-ADVANCE/tree/main/Figures) for reference.
 
+Additionally, a [comparative graph of ROC curves for all models] was generated to compare and evaluate their performance. 
+
 **Conclusion**
 
 - **Random Forest & XGBoost** performed significantly better than individual models.
