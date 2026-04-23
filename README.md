@@ -19,7 +19,7 @@ This project focuses on the classification and prediction of Alzheimer’s Disea
 ## Challenges
 - Contains missing values (NaN) in some features.
 - The dataset is imbalanced, with 1,389 healthy cases and 760 Alzheimer’s cases.
-- High dimensional feature space, Need for proper feature selection and scaling.
+- High dimensional feature space, need for proper feature selection and scaling.
 
 ## Methodology
 
