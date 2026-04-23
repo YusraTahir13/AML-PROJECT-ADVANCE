@@ -68,11 +68,11 @@ Each model was evaluated using:
 
 After comparative analysis:
 
-- Random Forest achieved the best overall performance with Accuracy: 95.3% and ROC-AUC: 0.94
-- XGBoost showed competitive results with Accuracy: 95.1% and Highest ROC-AUC: 0.95
+- XGBoost achieved the best overall performance with Accuracy: 95.1% and Highest ROC-AUC: 0.95
+- Random Forest showed competitive results with Accuracy: 95.3% and ROC-AUC: 0.94
 - SVM performance moderate with Accuracy: 88% and ROC-AUC: 0.91
 - Logistic Regression perform lowest with : Accuracy: 80.2% and ROC-AUC: 0.88
-- All generated output figures have been saved in the [figures folder]() for reference.
+- All generated output figures have been saved in the [figures folder](https://github.com/YusraTahir13/AML-PROJECT-ADVANCE/tree/main/Figures) for reference.
 
 **Conclusion**
 
