@@ -31,7 +31,7 @@ This project focuses on the classification and prediction of Alzheimer’s Disea
 
 The entire workflow is documented in the below notebook using executable code cells, along with Markdown cells for detailed descriptions.
 
-[AML_Models_comparison](
+[AML_Models_comparison](https://github.com/YusraTahir13/AML-PROJECT-ADVANCE/blob/main/AML_Models_All.ipynb)
 
 
 
