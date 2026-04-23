@@ -68,8 +68,8 @@ Each model was evaluated using:
 
 After comparative analysis:
 
-- XGBoost achieved the best overall performance with Highest ROC-AUC: 0.95 and Accuracy: 95.1%.
-- Random Forest showed competitive results with ROC-AUC: 0.94 and Accuracy: 95.3%.
+- Random Forest achieved the best overall performance with highest Accuracy: 95.3% and ROC-AUC: 0.94.
+- XGBoost showed competitive results with Accuracy: 95.1% and Highest ROC-AUC: 0.95.
 - SVM performance moderate with Accuracy: 88% and ROC-AUC: 0.91.
 - Logistic Regression performed lowest with : Accuracy: 80.2% and ROC-AUC: 0.88.
   
