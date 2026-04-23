@@ -14,7 +14,7 @@ This project focuses on the classification and prediction of Alzheimer’s Disea
 ## Description
 - Total patients: 2,149
 - Total features: 36 variables spanning multiple domains including demographic, lifestyle and clinical data.
-- Target variable: Diagnosis (0 = Healthy, 1 = Alzheimer’s Disease)
+- Target variable: Diagnosis (0 = Healthy, 1 = Alzheimer’s Disease).
 
 ## Challenges
 - Contains missing values (NaN) in some features.
@@ -28,18 +28,18 @@ The entire workflow is documented in the below notebook using executable code ce
 [AML_Models_comparison](https://github.com/YusraTahir13/AML-PROJECT-ADVANCE/blob/main/AML_Models_All.ipynb)
 
 **1. Data Preprocessing and cleaning**
-- Checked dataset structure and summary statistics
-- Handled missing values
-- Analyzed class distribution
-- Performed exploratory visualizations
+- Checked dataset structure and summary statistics.
+- Handled missing values.
+- Analyzed class distribution.
+- Performed exploratory visualizations.
 
 **2. Feature Engineering & Selection**
-- Applied feature scaling
-- Selected relevant features for model training
-- Reduced noise and redundancy
+- Applied feature scaling.
+- Selected relevant features for model training.
+- Reduced noise and redundancy.
 
 **3. Data Splitting**
-- Train-test split applied for unbiased evaluation
+- Train-test split applied for unbiased evaluation.
 
 **4. Model Building**
 
@@ -55,24 +55,25 @@ The following machine learning models were implemented:
 
 **5. Hyperparameter and Threshold Tuning**
 
-- Applied GridSearchCV
-- Used k-fold Cross Validation for robust optimization
-- Adjusted classification thresholds to improve performance
+- Applied GridSearchCV.
+- Used k-fold Cross Validation for robust optimization.
+- Adjusted classification thresholds to improve performance.
 
 **6. Model Evaluation**
 
 Each model was evaluated using:
-- Accuracy, Precision, Recall, F1-score, Confusion Matrix and ROC-AUC Score
+- Accuracy, Precision, Recall, F1-score, Confusion Matrix and ROC-AUC Score.
 
 **7.Results**
 
 After comparative analysis:
 
-- XGBoost achieved the best overall performance with Accuracy: 95.1% and Highest ROC-AUC: 0.95
-- Random Forest showed competitive results with Accuracy: 95.3% and ROC-AUC: 0.94
-- SVM performance moderate with Accuracy: 88% and ROC-AUC: 0.91
-- Logistic Regression perform lowest with : Accuracy: 80.2% and ROC-AUC: 0.88
-- All generated output figures have been saved in the [figures folder](https://github.com/YusraTahir13/AML-PROJECT-ADVANCE/tree/main/Figures) for reference.
+- XGBoost achieved the best overall performance with Highest ROC-AUC: 0.95 and Accuracy: 95.1%.
+- Random Forest showed competitive results with ROC-AUC: 0.94 and Accuracy: 95.3%.
+- SVM performance moderate with Accuracy: 88% and ROC-AUC: 0.91.
+- Logistic Regression perform lowest with : Accuracy: 80.2% and ROC-AUC: 0.88.
+  
+All generated output figures have been saved in the [figures folder](https://github.com/YusraTahir13/AML-PROJECT-ADVANCE/tree/main/Figures) for reference.
 
 **Conclusion**
 
