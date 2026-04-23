@@ -3,7 +3,7 @@
 # Comparative Analysis of Machine Learning Algorithms for Alzheimer’s Disease Prediction 
 
 This project focuses on the classification and prediction of Alzheimer’s Disease using machine learning techniques. Four different models _
-**Support Vector Machine (SVM), Random Forest, Logistic Regression, and XGBoost** _ were developed  and compared to identify the most effective approach for early diagnosis based on clinical, demographic, and lifestyle feature.
+**Support Vector Machine (SVM), Random Forest, Logistic Regression, and XGBoost** _ were developed  and compared to identify the most effective approach for early diagnosis of Alzheimer's disease based on clinical, demographic, and lifestyle feature.
 
 ## Dataset Information
 
@@ -71,7 +71,7 @@ After comparative analysis:
 - XGBoost achieved the best overall performance with Highest ROC-AUC: 0.95 and Accuracy: 95.1%.
 - Random Forest showed competitive results with ROC-AUC: 0.94 and Accuracy: 95.3%.
 - SVM performance moderate with Accuracy: 88% and ROC-AUC: 0.91.
-- Logistic Regression perform lowest with : Accuracy: 80.2% and ROC-AUC: 0.88.
+- Logistic Regression performed lowest with : Accuracy: 80.2% and ROC-AUC: 0.88.
   
 All generated output figures have been saved in the [figures folder](https://github.com/YusraTahir13/AML-PROJECT-ADVANCE/tree/main/Figures) for reference.
 
